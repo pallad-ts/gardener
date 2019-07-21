@@ -1,0 +1,3 @@
+{
+  "extends": "alpha-scripts/tslint.dist.json"
+}

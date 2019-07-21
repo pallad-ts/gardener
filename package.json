@@ -1,0 +1,31 @@
+{
+  "name": "@pallad/gardener",
+  "version": "1.0.0",
+  "description": "Initialize project state - similar to seeds, fixtures",
+  "main": "compiled/index.js",
+  "scripts": {
+    "test": "pallad-scripts test",
+    "compile": "pallad-scripts compile",
+    "prepack": "npm run compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallad-ts/gardener.git"
+  },
+  "keywords": [
+    "state",
+    "fixtures",
+    "test",
+    "seeding",
+    "seeds"
+  ],
+  "author": "Łukasz Kużyński <lukasz.kuzynski@gmail.com> (http://wookieb.pl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pallad-ts/gardener/issues"
+  },
+  "homepage": "https://github.com/pallad-ts/gardener#readme",
+  "devDependencies": {
+    "@pallad/scripts": "^1.0.2"
+  }
+}
