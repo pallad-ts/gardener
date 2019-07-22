@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/pallad-ts/gardener#readme",
   "devDependencies": {
-    "@pallad/scripts": "^1.0.2"
+    "@pallad/scripts": "^1.0.4"
   }
 }

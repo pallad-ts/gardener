@@ -1,5 +1,5 @@
 {
-  "extends": "alpha-scripts/tsconfig-node.dist.json",
+  "extends": "@pallad/scripts/tsconfig-node.dist.json",
   "compilerOptions": {
     "rootDir": "src",
     "outDir": "compiled"
