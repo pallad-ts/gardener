@@ -10,7 +10,7 @@ export abstract class Species<T> {
 
     abstract is(seed: any): seed is T;
 
-    getDependentReferences(seed: any): Reference<any>[] {
+    getDependentReferences(seed: any): Array<Reference<any>> {
         return [];
     }
 
